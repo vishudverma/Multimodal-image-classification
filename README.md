@@ -14,7 +14,7 @@ The project is organized as follows:
 
 - `FSL_SimpleNN.ipynb`: Jupyter Notebook containing the code for the FSL-based feed-forward network for tumor image classification.
   
-- `SNAIL.ipynb`: Jupyter Notebook containing the code for the tumor image classification using SNAIL techniques.
+- `Final.ipynb`: Jupyter Notebook containing the code for the tumor image classification using SNAIL techniques.
   
 - `Features/`: Directory containing the dataset of features extracted from tumor images and scripts.
   
